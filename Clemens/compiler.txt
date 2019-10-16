@@ -1,0 +1,4 @@
+tsc "filename" -w ==> watch
+
+for in = index
+for of = content (value of array)
